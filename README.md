@@ -38,13 +38,13 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/said-yeginoglu-263207b0/)](https://www.linkedin.com/in/said-yeginoglu-263207b0/)
+[![Linkedin Badge](https://img.shields.io/badge/-SaidYeginoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/said-yeginoglu-263207b0/)](https://www.linkedin.com/in/said-yeginoglu-263207b0/)
 ---
 ![Profile views](https://gpvc.arturio.dev/SaidYein)
 ---
-[![Caglar's GitHub stats](https://github-readme-stats.vercel.app/api?username=caglar-kaya&show_icons=true&theme=dark)](https://github.com/caglar-kaya/)
+[![Caglar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaidYein&show_icons=true&theme=dark)](https://github.com/SaidYein/)
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caglar-kaya&layout=compact)](https://github.com/caglar-kaya/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidYein&layout=compact)](https://github.com/SaidYein/)
 
