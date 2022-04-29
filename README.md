@@ -30,9 +30,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand:  Exploring Salesforce and Python
-- :rocket: Always ready to collaborate for Dev Experiments
+- :computer: I'm currently studying in HackYourFuture
+- :hourglass_flowing_sand:  Learning JS, Raect, NodeJS, MySQL and more...
+- :rocket: Always ready to discover new horizons
 - :man_technologist: Former Volunteer Project Member at The London Institute of Social Studies
 - :dart: My Motto: "Explore :fire: and Explode :bomb: with knowledge" 
 
